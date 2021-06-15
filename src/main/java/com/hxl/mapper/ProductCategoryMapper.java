@@ -14,4 +14,5 @@ public interface ProductCategoryMapper{
 
     List<ProductCategory> findAllByParentId(int parentId);
 
+
 }
